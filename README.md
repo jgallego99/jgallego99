@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 # MY STATS :computer:
 <img align="left" alt="jgallego99 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jgallego99&include_all_commits=true&show_icons=true&theme=tokyonight&count_private=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgallego99&langs_count=8&theme=tokyonight)](https://github.com/jgallego99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgallego99&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
